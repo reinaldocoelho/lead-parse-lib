@@ -1,2 +1,2 @@
-# lead-parse-lib
-Lead library to parse contacts found.
+# node-linkedin-parse-lib
+Node.js library

@@ -1,0 +1,9 @@
+{
+  "generator-nodejs-lib": {
+    "projectName": "node-linkedin-parse-lib",
+    "projectDescription": "Node.js library",
+    "authorName": "Reinaldo Coelho - Foca",
+    "authorEmail": "reinaldo@enkilabs.com.br",
+    "githubUsername": "reinaldocoelho"
+  }
+}
